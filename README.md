@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SeadSilajdzic
+- 👀 I’m interested in web development more precisely Laravel development
+- 🌱 I’m currently learning advanced Laravel methods and JavaScript
