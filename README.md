@@ -101,9 +101,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaddev98&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=seaddev98&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SeadSilajdzic&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
