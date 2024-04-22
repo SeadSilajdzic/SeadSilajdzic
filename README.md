@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm Sead, a full-time Laravel developer 👨‍💻 working professionally since 2018 🚀</div>  
-  
-
-- 🐱‍💻 I’m currently working on a company product (secret repository)  
-  
+    
 
 - 🌱 Currently learning Alpine.JS  
   
