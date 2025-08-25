@@ -13,8 +13,8 @@
 - Git | API Development | System Architecture  
 
 ## 🚀 Featured Projects
-- [CRM System (Laravel + MySQL)](link_na_repo_ili_demo)  
-- [Notification System (Laravel Jobs + Queue)](link_na_repo_ili_demo)  
-- [WordPress Plugin Development](link_na_repo_ili_demo)  
+- [Restaurant menu (LEGACY)](https://github.com/SeadSilajdzic/dinein)  
+- [Portfolio](https://github.com/SeadSilajdzic/sead-silajdzic-website)  
+- [WordPress Plugin Development](https://github.com/SeadSilajdzic/data-transfer-wp-plugin)  
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/sead-silajdzic/) | ✉️ [tvoj email]
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/sead-silajdzic/) | ✉️ sead.dev.98@gmail.com
